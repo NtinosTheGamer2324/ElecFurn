@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 50,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "elecfurn_mod:oil_bucket"
+  },
+  "result": "elecfurn_mod:a_chunckof_plastic"
+}
