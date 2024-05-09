@@ -1,0 +1,11 @@
+{
+  "parent": "elecfurn_mod:custom/chair",
+  "textures": {
+    "all": "elecfurn_mod:blocks/polished_andesite",
+    "particle": "elecfurn_mod:blocks/polished_andesite",
+    "0": "elecfurn_mod:blocks/polished_andesite",
+    "1": "elecfurn_mod:blocks/red_wool",
+    "missing": "elecfurn_mod:blocks/"
+  },
+  "render_type": "solid"
+}
