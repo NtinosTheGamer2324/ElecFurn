@@ -1,0 +1,7 @@
+{
+  "parent": "elecfurn_mod:custom/vr_controler",
+  "textures": {
+    "0": "elecfurn_mod:blocks/vr_controller_texture",
+    "particle": "elecfurn_mod:items/vr_controller_texture"
+  }
+}

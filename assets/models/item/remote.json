@@ -1,0 +1,7 @@
+{
+  "parent": "elecfurn_mod:custom/remote",
+  "textures": {
+    "0": "elecfurn_mod:blocks/remote_texture",
+    "particle": "elecfurn_mod:items/remote_texture"
+  }
+}
