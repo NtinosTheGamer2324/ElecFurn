@@ -1,0 +1,9 @@
+{
+  "parent": "elecfurn_mod:custom/ps5",
+  "textures": {
+    "all": "elecfurn_mod:blocks/ps5_texture",
+    "particle": "elecfurn_mod:blocks/ps5_texture",
+    "missing": "elecfurn_mod:blocks/ps5_texture"
+  },
+  "render_type": "solid"
+}

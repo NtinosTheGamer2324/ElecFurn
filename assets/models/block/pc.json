@@ -1,0 +1,14 @@
+{
+  "parent": "elecfurn_mod:custom/pc",
+  "textures": {
+    "all": "elecfurn_mod:blocks/pc_basetexture",
+    "particle": "elecfurn_mod:blocks/pc_basetexture",
+    "0": "elecfurn_mod:blocks/allfans_texture",
+    "1": "elecfurn_mod:blocks/gpu_texture",
+    "2": "elecfurn_mod:blocks/motherboard64texture",
+    "3": "elecfurn_mod:blocks/cpu_coller_texture",
+    "4": "elecfurn_mod:blocks/allram_texture",
+    "5": "elecfurn_mod:blocks/pc_basetexture"
+  },
+  "render_type": "solid"
+}

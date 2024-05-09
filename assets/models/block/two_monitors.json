@@ -1,0 +1,10 @@
+{
+  "parent": "elecfurn_mod:custom/2_monitors",
+  "textures": {
+    "all": "elecfurn_mod:blocks/2monitors_texture",
+    "particle": "elecfurn_mod:blocks/2monitors_texture",
+    "0": "elecfurn_mod:blocks/2monitors_texture",
+    "1": "elecfurn_mod:blocks/speakers_texture"
+  },
+  "render_type": "solid"
+}

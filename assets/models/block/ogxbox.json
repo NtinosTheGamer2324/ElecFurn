@@ -1,0 +1,10 @@
+{
+  "parent": "elecfurn_mod:custom/og_xbox",
+  "textures": {
+    "all": "elecfurn_mod:blocks/ogxbox_texture",
+    "particle": "elecfurn_mod:blocks/ogxbox_texture",
+    "0": "elecfurn_mod:blocks/usb_ogxbox_texture",
+    "1": "elecfurn_mod:blocks/ogxbox_texture"
+  },
+  "render_type": "solid"
+}

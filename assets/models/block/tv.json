@@ -1,0 +1,9 @@
+{
+  "parent": "elecfurn_mod:custom/new_tv",
+  "textures": {
+    "all": "elecfurn_mod:blocks/new_tv_texture",
+    "particle": "elecfurn_mod:blocks/new_tv_texture",
+    "0": "elecfurn_mod:blocks/new_tv_texture"
+  },
+  "render_type": "solid"
+}

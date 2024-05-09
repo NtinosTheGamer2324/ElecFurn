@@ -1,0 +1,10 @@
+{
+  "parent": "elecfurn_mod:custom/ps4",
+  "textures": {
+    "all": "elecfurn_mod:blocks/ps4",
+    "particle": "elecfurn_mod:blocks/ps4",
+    "1": "elecfurn_mod:blocks/ps4",
+    "missing": "elecfurn_mod:blocks/"
+  },
+  "render_type": "solid"
+}

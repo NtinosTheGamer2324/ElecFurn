@@ -1,0 +1,9 @@
+{
+  "parent": "elecfurn_mod:custom/ps2",
+  "textures": {
+    "all": "elecfurn_mod:blocks/ps2_texture",
+    "particle": "elecfurn_mod:blocks/ps2_texture",
+    "0": "elecfurn_mod:blocks/ps2_texture"
+  },
+  "render_type": "solid"
+}
