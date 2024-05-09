@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "elecfurn_mod:iron_rod"
+    },
+    "2": {
+      "item": "elecfurn_mod:iron_rod"
+    },
+    "3": {
+      "item": "elecfurn_mod:plastic"
+    },
+    "4": {
+      "item": "elecfurn_mod:plastic"
+    },
+    "5": {
+      "item": "elecfurn_mod:plastic"
+    },
+    "6": {
+      "item": "elecfurn_mod:iron_rod"
+    },
+    "8": {
+      "item": "elecfurn_mod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "elecfurn_mod:cb_ps_5_vr_helmet",
+    "count": 1
+  }
+}
