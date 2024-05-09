@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elecfurn_mod:a_chunckof_plastic"
+    }
+  ],
+  "result": {
+    "item": "elecfurn_mod:plastic",
+    "count": 10
+  }
+}
