@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "elecfurn_mod:block/two_monitors"
+    },
+    "facing=east": {
+      "model": "elecfurn_mod:block/two_monitors",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "elecfurn_mod:block/two_monitors",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "elecfurn_mod:block/two_monitors",
+      "y": 270
+    }
+  }
+}

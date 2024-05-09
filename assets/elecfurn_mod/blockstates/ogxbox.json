@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "elecfurn_mod:block/ogxbox"
+    },
+    "facing=east": {
+      "model": "elecfurn_mod:block/ogxbox",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "elecfurn_mod:block/ogxbox",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "elecfurn_mod:block/ogxbox",
+      "y": 270
+    }
+  }
+}

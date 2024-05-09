@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "elecfurn_mod:block/ps_2"
+    },
+    "facing=east": {
+      "model": "elecfurn_mod:block/ps_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "elecfurn_mod:block/ps_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "elecfurn_mod:block/ps_2",
+      "y": 270
+    }
+  }
+}
